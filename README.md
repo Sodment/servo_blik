@@ -1,6 +1,6 @@
 # servo_blik
 
-A flutter app and python server created as a project for Embeded Systems course. It functions similarly to BLIK as the user generates code to enter on the keyboard to move the servomechanism. After a couple of seconds the code expires and you need to generate a new one to eneter. The RPi serves as server and database and App is only required for code generation and time counting
+A flutter app and python scripts created as a project for Embeded Systems course. It functions similarly to BLIK as the user generates code to enter on the keyboard to move the servomechanism. After a couple of seconds the code expires and you need to generate a new one to eneter. The RPi serves as server and database and App is only required for code generation and time counting
 
 ## Requirements:
   - RaspberryPi (capable of running python 3.6 or newer, we used RaspberryPI 4B)
